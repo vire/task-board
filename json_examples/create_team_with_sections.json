@@ -1,0 +1,147 @@
+{
+  "fwk-int": {
+    "markup": {
+      "nested": [
+        {
+          "type": "column",
+          "nested": [
+            {
+              "type": "row",
+              "nested": [
+                {
+                  "type": "section",
+                  "id": "1",
+                  "name": "TODO"
+                }
+              ]
+            },
+            {
+              "type": "divider"
+            },
+            {
+              "type": "row",
+              "nested": [
+                {
+                  "type": "section",
+                  "id": "2",
+                  "name": "Ready For Test"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "nested": [
+            {
+              "type": "section",
+              "id": "3",
+              "name": "In Progress",
+              "nested": [
+                {
+                  "type": "row",
+                  "nested": [
+                    {
+                      "type": "section",
+                      "id": "31",
+                      "name": "Radek"
+                    }
+                  ]
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "row",
+                  "nested": [
+                    {
+                      "type": "section",
+                      "id": "32",
+                      "name": "Peter"
+                    }
+                  ]
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "row",
+                  "nested": [
+                    {
+                      "type": "section",
+                      "id": "33",
+                      "name": "Jiri.P"
+                    }
+                  ]
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "row",
+                  "nested": [
+                    {
+                      "type": "section",
+                      "id": "34",
+                      "name": "Eldar"
+                    }
+                  ]
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "row",
+                  "nested": [
+                    {
+                      "type": "section",
+                      "id": "35",
+                      "name": "Zdenek"
+                    }
+                  ]
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "row",
+                  "nested": [
+                    {
+                      "type": "section",
+                      "id": "36",
+                      "name": "Jan"
+                    }
+                  ]
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "row",
+                  "nested": [
+                    {
+                      "type": "section",
+                      "id": "37",
+                      "name": "Jiri.K"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "nested": [
+            {
+              "type": "section",
+              "id": "4",
+              "name": "Done"
+
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
